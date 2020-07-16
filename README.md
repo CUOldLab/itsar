@@ -7,8 +7,8 @@ devtools::install_github("CUOldLab/itsar", build_vignettes = TRUE)
 
 For documentation and the package vignette:
 
-library(itsa)
+library(itsar)
 
-?itsa
+?itsar
 
 browseVignettes("itsar")
